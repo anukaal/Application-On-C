@@ -1,0 +1,52 @@
+		
+
+
+		🍕🍕🍕🍕🍕PIZZA MANAGEMENT SYSTEM 🍕🍕🍕🍕🍕
+
+				LOCKDOWN ......
+
+				..........PROJECT ON C 
+
+It is a management system in which the person or the buyer can buy their favourite type of pizza 🍕 just by typing some numbers with the given instructions, then the buyer will get the details what they have ordered with the COST , ID , ITEM NAME , QUANTITY .....
+
+
+
+
+Option for the buyer to put while giving order
+
+A. 
+	a) Veg pizza 
+   	b) Chicken Pizza 
+	c) Sides
+	D) Exit
+
+B. 
+	a) Margherita
+	b) Spicy Triple tango
+	c) Farm House
+	d) Exit
+
+C.
+	a) Small
+	b) Medium
+	c) Large
+
+D.
+	Need Special crusts
+	a) Fresh Pan
+	b) Cheese Burst
+	c) Wheat Thin Crust
+	d) No Need
+
+
+
+
+After Giving the details What the buyer wants , then you can view the cart..
+
+So, Now I have think of it and started work on it to do the best of it and would work and in this lockdown period I can have my pizza just In writing code....😂😂😂😂
+
+	JUST KIDDING😂😂.....
+
+And Will Add more in coming time...😎😎😎
+
+

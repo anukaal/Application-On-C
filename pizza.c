@@ -36,6 +36,36 @@ int main()
     int sidesCost[4]={29,35,119,129};
     // int zingyParcelVeg=29,zingyParcelNonVeg=35,tacoMexicanaVeg=119,tacoMexicanaNonVeg=129;
     struct PizzaTypes pizzaCart[100];
+    struct PizzaCost CostonSize[12];
+    for ( i = 0; i < 12; i++)
+    {
+        pizzaCart[i].smallQuantity=0;
+        pizzaCart[i].mediumQuantity=0;
+        pizzaCart[i].largeQuantity=0;
+        pizzaCart[i].freshPan=0;
+        pizzaCart[i].whaetThinCrust=0;
+        pizzaCart[i].chesseBurst=0;
+        pizzaCart[i].others=0;
+    }
+    i=0;
+    while (i<24)
+    {
+        CostonSize[j].smallCost=cost[i++];
+        CostonSize[j].mediumCost=cost[i++];
+        CostonSize[j].largeCost=cost[i++];
+        CostonSize[j].freshPanCost=30;
+        CostonSize[j].chesseBurstCost=95;
+        CostonSize[j].wheatThinCrustCost=40;
+        j++;
+    }
+    do{
+        if(c==1){
+            printf("Enter\n1 - Veg Pizza\n2 - Chicken Pizza\n3 - Sides\n4 - Exit\n");
+            scanf("%d",&mainChoice);
+        }
+    }
+    
+    
     
 }
 
